@@ -1,0 +1,3 @@
+[submodule "vggsfm"]
+	path = vggsfm
+	url = https://github.com/dyan-dy/vggsfm.git
